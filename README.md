@@ -11,6 +11,7 @@ I'm a senior frontend developer from Poland. I work at [Codetain](https://codeta
 <br></br>
 
 ### Latest Blog Posts 📕
+- [Exploring microfrontends - advantages and drawbacks](https://codetain.com/blog/exploring-microfrontends-advantages-and-drawbacks/)
 - [Understanding Redux: Beginner's guide](https://codetain.com/blog/understanding-redux-beginner-s-guide)
 - [How to translate React application with react-i18next - part 2](https://codetain.com/blog/how-to-translate-react-application-with-react-i18next-part-2)
 - [Implementing CRUD in web application using React and GraphQL](https://codetain.com/blog/implementing-crud-in-web-application-using-react-and-graphql)
