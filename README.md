@@ -24,9 +24,6 @@ I'm a senior frontend developer from Poland. I work at [Codetain](https://codeta
 ### My GitHub activitiy 🌱
 I'm proud of my open-source contribution in New Relic One platform. 👯
 
-<img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=norbertsuski&count_private=true&show_icons=true" />
-
-
 
 [website]: https://norbertsuski.pl
 [facebook]: https://facebook.com/norbertsuski
